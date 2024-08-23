@@ -1,4 +1,4 @@
-#AI-Tracking-mouse
+# AI-Tracking-mouse
 Need K60168A_Dongle board.
 
 training dataset is pre-precess by dataProcessing.ipynb
